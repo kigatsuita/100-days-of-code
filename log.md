@@ -17,3 +17,8 @@
 **Today's progress:** Today I'ended the 8th lesson of Odin curriculum and read about updating bios on my laptop. I will read about virtual machines and other ways to update my bios.  
 **Thoughts:** I think I spent less time for studying because of problems with bios, but I need to fix it.  
 **Link to work:** [Screens](https://github.com/kigatsuita/100-days-of-code/tree/round-1/screens/25-07-2025)  
+
+### DAY 4, 26.07.2025
+**Today's progress:** Today I've finaly fixed problems with my bios. Also I completed the 9th and 10th lessons of Odin curriculum and started 11th one.  
+**Thoughts:** I think I realy spent so much time for bios problems but I couldn't do it other way because of HP. They made real piece of shit instead of a laptop.  
+**Link to work:** [Screens](https://github.com/kigatsuita/100-days-of-code/tree/round-1/screens/26-07-2025)  
